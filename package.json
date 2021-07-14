@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "back-end  project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimod7890/Study-Node.js.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Bom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimod7890/Study-Node.js/issues"
+  },
+  "homepage": "https://github.com/nimod7890/Study-Node.js#readme",
+  "dependencies": {
+    "react-scripts": "^4.0.3"
+  },
+  "devDependencies": {}
+}
